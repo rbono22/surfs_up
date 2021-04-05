@@ -7,6 +7,7 @@ W. Avy wants more information about temperature trends before opening a surf sho
 ### June
 ![Surfs Up June Statistics](Images/June_Summary_Statistics.png)
 
+
 -Total count of 1700 
 -Mean of 74.9
 -Max of 85.0 and min of 64.0
@@ -14,6 +15,7 @@ W. Avy wants more information about temperature trends before opening a surf sho
 ### December
 
 ![Surfs Up December Statistics](Images/December_Summary_Statistics.png)
+
 
 -Total count of 1517
 -Mean of 71.0
