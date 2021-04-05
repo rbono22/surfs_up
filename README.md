@@ -17,9 +17,9 @@ W. Avy wants more information about temperature trends before opening a surf sho
 ![Surfs Up December Statistics](Images/December_Summary_Statistics.png)
 
 
--Total count of 1517
--Mean of 71.0
--Max of 83.0 and min of 56.0 
+* Total count of 1517
+* Mean of 71.0
+* Max of 83.0 and min of 56.0 
 
 - Standard deviation is 3.25 in June and 3.75, which is a 0.5 difference in the two different seasons
 
