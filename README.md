@@ -8,9 +8,9 @@ W. Avy wants more information about temperature trends before opening a surf sho
 ![Surfs Up June Statistics](Images/June_Summary_Statistics.png)
 
 
--Total count of 1700 
--Mean of 74.9
--Max of 85.0 and min of 64.0
+*Total count of 1700 
+*Mean of 74.9
+*Max of 85.0 and min of 64.0
 
 ### December
 
