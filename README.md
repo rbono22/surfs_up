@@ -1,28 +1,22 @@
 # Surfs Up
 
 ## Overview of Analysis
-W. Avy wants more information about temperature trends before opening a surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+The purpose of this project is to analyze the temperature trends in Oahu, Hawaii for a hypothetical client seeking to open a surf shop. Specifically, the temperature trends during the months of June and December are analyzed so that the client can make a more informed decision.
 
 ## Results
 ### June
+* The average temperature in Oahu during December is only 3.9°F cooler than June.
+* The lowest temperature in December is 8°F colder than the lowest temperature in June.
+* There are 10.7% less data points in December than June.
+
+Below is a statistical summary for the month of June:
+
 ![Surfs Up June Statistics](Images/June_Summary_Statistics.png)
 
-
-* Total count of 1700 
-* Mean of 74.9
-* Max of 85.0 and min of 64.0
-
 ### December
+Below is a statistical summary for the month of December:
 
 ![Surfs Up December Statistics](Images/December_Summary_Statistics.png)
-
-
-* Total count of 1517
-* Mean of 71.0
-* Max of 83.0 and min of 56.0 
-
-- Standard deviation is 3.25 in June and 3.75, which is a 0.5 difference in the two different seasons
-
 
 ## Summary
 
